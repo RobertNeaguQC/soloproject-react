@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  width: 550px;
+  height: 868px;
+  background-color: rgb(0, 0, 0);
+  font-family: "Bigelow Rules", cursive;
+  font-family: "Inter", sans-serif;
+}
+
+.card {
+  width: 317px;
+  height: 780px;
+  margin: 44px 117px;
+
+  font-size: 10px;
+
+  background-color: #f5f5f5;
+  border-radius: 10px 10px 10px 10px;
+}
+.card > h2 {
+  font-size: 16px;
+}
+.avatar {
+  background-color: #ffc300;
+  border-radius: 10px 10px 0 0;
+}
+.textinfo {
+  max-width: 242px;
+  margin: 0 35px;
+  text-align: center;
+}
+.textinfo > h4 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 1px;
+  text-align: center;
+
+  color: #f47d27;
+}
+.textinfo > h2 {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 10px;
+  text-align: center;
+
+  color: #2b283a;
+}
+.textinfo > a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 15px;
+  text-decoration: none;
+  text-align: center;
+  color: #4a4e74;
+}
+.about {
+  max-width: 242px;
+  margin: 0 35px;
+  line-height: 15px;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 0px;
+}
+
+.interests {
+  max-width: 242px;
+  margin: 0 35px;
+  line-height: 15px;
+}
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  padding: 9px 13px 9px 11px;
+  gap: 8px;
+}
+
+.btnr {
+  width: 115px;
+  height: 34px;
+  left: 151px;
+  top: 469px;
+  color: #ffffff;
+  background: #297fe5;
+  border: 1px solid #d1d5db;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+}
+.btnl {
+  width: 115px;
+  height: 34px;
+  left: 151px;
+  top: 469px;
+  color: #000000;
+  background: #ffffff;
+  border: 1px solid #d1d5db;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+}
+.btnl > i {
+  color: #000000;
+
+  margin-right: 8px;
+}
+
+.btnr > i {
+  font-size: 9px;
+  padding: 2px;
+  margin-right: 8px;
+  background-color: white;
+  color: blue;
+}
+.footer {
+  position: relative;
+  top: 58px;
+  border-radius: 0px 0px 10px 10px;
+  background-color: #d5d4d8;
+  color: #b2b2ba;
+  height: 64px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.icon {
+  color: #000000;
+  width: 25px;
+  height: 25px;
+  margin-right: 12px;
+  margin-left: 12px;
+}
