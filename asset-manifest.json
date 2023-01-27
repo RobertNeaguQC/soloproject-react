@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/soloproject-react/static/css/main.149a2d46.css",
+    "main.js": "/soloproject-react/static/js/main.5407166e.js",
+    "static/js/787.87257e7e.chunk.js": "/soloproject-react/static/js/787.87257e7e.chunk.js",
+    "static/media/avatar.png": "/soloproject-react/static/media/avatar.b1f694b34b5406a3aa38.png",
+    "index.html": "/soloproject-react/index.html",
+    "main.149a2d46.css.map": "/soloproject-react/static/css/main.149a2d46.css.map",
+    "main.5407166e.js.map": "/soloproject-react/static/js/main.5407166e.js.map",
+    "787.87257e7e.chunk.js.map": "/soloproject-react/static/js/787.87257e7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.149a2d46.css",
+    "static/js/main.5407166e.js"
+  ]
+}
